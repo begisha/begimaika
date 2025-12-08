@@ -73,7 +73,7 @@ export default function Quiz({ question, options, correctAnswer }) {
             fontWeight: 'bold',
             borderRadius: '4px'
         }}>
-          НЕПРАВИЛЬНО! (Правильный ответ: {correctAnswer})
+          НЕПРАВИЛЬНО! 
         </div>
       )}
     </div>
